@@ -17,8 +17,6 @@ This is a logistics analytics project built using Power BI, showcasing shipment,
 - Salesperson performance
 - Logistics visuals (with images and logos)
 
-## 📷 Screenshots
-![Dashboard](Logistics1.png)
 
 ## 🔧 Tools Used
 - Power BI
@@ -38,5 +36,3 @@ To create a logistics dashboard to help businesses track shipping performance an
 
 ---
 
-### 📩 Contact
-For questions, email me at your.email@example.com
